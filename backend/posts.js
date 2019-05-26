@@ -21,7 +21,7 @@ const defaultData = {
     body: 'Storytel\'s audio books are the best!',
     author: 'frog aficionado',
     category: 'books',
-    voteScore: 2,
+    voteScore: 3,
     deleted: false,
     commentCount: 0
   },
@@ -30,7 +30,7 @@ const defaultData = {
     timestamp: 1467166872634,
     title: 'Cat',
     body: 'I see a book, I see a coffee, I see a good day ahead.',
-    author: 'thingone',
+    author: 'Mike',
     category: 'audio-books',
     voteScore: -4,
     deleted: false,

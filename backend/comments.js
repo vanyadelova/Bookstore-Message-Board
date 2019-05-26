@@ -9,7 +9,7 @@ const defaultData = {
     parentId: "8xf0y6ziyjabvozdd253nd",
     timestamp: 1468166872634,
     body: 'Books are amazing.',
-    author: 'thingtwo',
+    author: 'Marina',
     voteScore: 6,
     deleted: false,
     parentDeleted: false
@@ -19,7 +19,7 @@ const defaultData = {
     parentId: "8xf0y6ziyjabvozdd253nd",
     timestamp: 1469479767190,
     body: 'Can I order this one?',
-    author: 'thingone',
+    author: 'Mike',
     voteScore: 3,
     deleted: false,
     parentDeleted: false
@@ -29,8 +29,8 @@ const defaultData = {
     id: '8tu2345n805n8un48ve89',
     parentId: "6ni6ok3ym7mf1p33lnez",
     timestamp: 1469479768222,
-    body: 'I recommend',
-    author: 'thingone',
+    body: 'I recommend it',
+    author: 'Mike',
     voteScore: -9,
     deleted: false,
     parentDeleted: false
