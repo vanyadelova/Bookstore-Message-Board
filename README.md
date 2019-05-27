@@ -16,11 +16,27 @@ The data is grabbed from the Movie DB - https://www.themoviedb.org/documentation
 
 
 ## Run it locally 🖥
-```bash
-$ git clone https://github.com/vanyadelova/movie-library-application.git
-$ npm install # to install node packages.
-$ npm run dev # to run the app in development mode
+
+Clone the repository.
 ```
+$ git clone https://github.com/vanyadelova/movie-library-application.git
+```
+Install and start the API backend server.
+
+```
+cd backend
+npm install
+npm start
+```
+
+Install project dependencies and start the app.
+
+```
+cd frontend
+npm install
+npm start
+```
+
 Then open `localhost:3000` on browser to see the app.
 
 
