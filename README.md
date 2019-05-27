@@ -37,7 +37,7 @@ npm install
 npm start
 ```
 
-Then open `localhost:3000` on browser to see the app.
+Your browser should automatically open `localhost:3000` Enjoy the app!
 
 
 ## Technologies used
