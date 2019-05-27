@@ -13,8 +13,8 @@ This is my own attempt at the Storytel's Frontend challenge. I was expected to d
 - **a user can view any message available**
 - **add test to critical places of the code (OPTIONAL)**
 
-It is a SPA(Single Page Application) app to browse movies written in React-Redux.
-The data is grabbed from the Movie DB - https://www.themoviedb.org/documentation/api.
+It is a SPA(Single Page Application) message board app in React-Redux.
+It was created using [Create React App](https://facebook.github.io/create-react-app/) and depends on the backend API Server, which interact with the front-end portion of the project. This React/Redux app is a message board allowing anonymous users to post, edit, comment, and delete.
 
 
 ## Run it locally 🖥
