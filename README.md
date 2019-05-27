@@ -46,9 +46,9 @@ Your browser should automatically open `localhost:3000` Enjoy the app!
 
 - React
 - Redux
-- Webpack
 - React router dom
 - redux-thunk
+- uuid
 
 
 
