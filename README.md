@@ -4,7 +4,8 @@
 # 📚 BOOKSTORE-Message-Board-APP 📚 
 
 ## What this project is about
-This is my own attempt at the Global Gaming's Frontend challenge. I was expected to develop a well-structured movie library application (such as Netflix and Amazon) using any design I want. The app should at minimum support the following primary functions:
+This is my own attempt at the Storytel's Frontend challenge. I was expected to develop a well-structured message board application using any design I want. The app should at minimum support the following primary functions:
+
 - **List a number of movies**
 - **Search for a movie by title**
 - **Filter movies by different genres**
