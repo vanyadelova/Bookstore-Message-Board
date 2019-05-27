@@ -4,13 +4,14 @@
 # 📚 BOOKSTORE-Message-Board-APP 📚 
 
 ## What this project is about
-This is my own attempt at the Storytel's Frontend challenge. I was expected to develop a well-structured message board application using any design I want. The app should at minimum support the following primary functions:
+This is my own attempt at the Storytel's Frontend challenge. I was expected to develop a well-structured message board application using any design I want. The app should include the following features:
 
-- **List a number of movies**
-- **Search for a movie by title**
-- **Filter movies by different genres**
-- **Navigate to a specific movie as to preview further details**
-- **Should be interactive to numerous resolutions**
+- **a user can create a message in the service**
+- **a user can create a child-message in the service**
+- **the same user can modify their message**
+- **the same user can delete their message**
+- **a user can view any message available**
+- **add test to critical places of the code (OPTIONAL)**
 
 It is a SPA(Single Page Application) app to browse movies written in React-Redux.
 The data is grabbed from the Movie DB - https://www.themoviedb.org/documentation/api.
