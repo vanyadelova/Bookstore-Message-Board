@@ -21,7 +21,7 @@ It was created using [Create React App](https://facebook.github.io/create-react-
 
 Clone the repository.
 ```
-$ git clone https://github.com/vanyadelova/movie-library-application.git
+$ git clone https://github.com/vanyadelova/bookstore-message-board.git
 ```
 Install and start the API backend server.
 
@@ -49,7 +49,8 @@ Your browser should automatically open `localhost:3000` Enjoy the app!
 - React router dom
 - redux-thunk
 - uuid
-
+- body-parser
+- cors
 
 
 
