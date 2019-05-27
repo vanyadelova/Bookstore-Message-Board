@@ -1,6 +1,3 @@
-# bookstore-message-board
-This web app demonstrates message board UI, React, Redux, NodeJS, connecting with a REST API. Posts, comments, and categories are stored on a backend server and accessed by calls to the ReadableAPI. This app allows pseudonymous posting and commenting.
-
 
                      
 
