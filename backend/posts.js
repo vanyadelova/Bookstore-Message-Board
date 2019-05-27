@@ -6,20 +6,20 @@ const defaultData = {
   "8xf0y6ziyjabvozdd253nd": {
     id: '8xf0y6ziyjabvozdd253nd',
     timestamp: 1368479767190,
-    title: 'The Tree Frog',
-    body: "Summer is never boring when you\'ve got a book.",
-    author: 'foobear',
+    title: 'The King',
+    body: "Storytel\'s audio books are the best!",
+    author: 'Vanya',
     category: 'books',
-    voteScore: 5,
+    voteScore: 6,
     deleted: false,
     commentCount: 0
   },
   "9xf0y6ziyjabvozdd253nd": {
     id: '9xf0y6ziyjabvozdd253nd',
     timestamp: 1519269415880,
-    title: 'Night Frogs',
-    body: 'Storytel\'s audio books are the best!',
-    author: 'frog aficionado',
+    title: 'Dogs',
+    body: 'Summer is never boring when you\'ve got a book',
+    author: 'Mario',
     category: 'books',
     voteScore: 3,
     deleted: false,
@@ -30,9 +30,10 @@ const defaultData = {
     timestamp: 1467166872634,
     title: 'Cat',
     body: 'I see a book, I see a coffee, I see a good day ahead.',
+  
     author: 'Mike',
     category: 'audio-books',
-    voteScore: -4,
+    voteScore: 1,
     deleted: false,
     commentCount: 0
   }

@@ -31,7 +31,7 @@ const defaultData = {
     timestamp: 1469479768222,
     body: 'I recommend it',
     author: 'Mike',
-    voteScore: -9,
+    voteScore: 9,
     deleted: false,
     parentDeleted: false
   }
