@@ -1,10 +1,9 @@
-import React, { Component } from 'react';
-import { connect } from 'react-redux';
-import { getCategories, updateSorting } from '../actions';
+import React, { Component } from "react";
+import { connect } from "react-redux";
+import { getCategories, updateSorting } from "../actions";
 
 class Nav extends Component {
-
-  componentDidMount () {
+  componentDidMount() {
     this.props.updateCats();
   }
 
@@ -13,11 +12,14 @@ class Nav extends Component {
       <aside id="nav">
         <div className="wrapper">
           <ul className="nav-add-post">
-            <li key='add'><a href="/add">Add a Post</a></li>
+            <li key="add">
+              <a href="/add">Add a Post</a>
+            </li>
           </ul>
           <ul className="nav-sort-posts">
-            <li key='all'><a href={'/'}>All Posts</a></li>
-            
+            <li key="all">
+              <a href={"/"}>All Posts</a>
+            </li>
           </ul>
         </div>
       </aside>
@@ -32,7 +34,10 @@ const mapStateToProps = state => ({
 const mapDispatchToProps = dispatch => ({
   dispatch,
   updateCats: () => dispatch(getCategories()),
-  updateSortBy: (sorting) => dispatch(updateSorting(sorting))
+  updateSortBy: sorting => dispatch(updateSorting(sorting))
 });
 
-export default connect(mapStateToProps, mapDispatchToProps)(Nav);
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(Nav);
