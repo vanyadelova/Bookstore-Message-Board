@@ -18,7 +18,7 @@ const defaultData = {
     id: '8tu4bsun805n8un48ve89',
     parentId: "8xf0y6ziyjabvozdd253nd",
     timestamp: 1469479767190,
-    body: 'Can I order this one?',
+    body: 'Can I order one?',
     author: 'Mike',
     voteScore: 3,
     deleted: false,

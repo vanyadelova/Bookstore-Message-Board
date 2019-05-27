@@ -6,9 +6,9 @@ const defaultData = {
   "8xf0y6ziyjabvozdd253nd": {
     id: '8xf0y6ziyjabvozdd253nd',
     timestamp: 1368479767190,
-    title: 'The King',
+    title: 'King',
     body: "Storytel\'s audio books are the best!",
-    author: 'Vanya',
+    author: 'Ivanka',
     category: 'books',
     voteScore: 6,
     deleted: false,
@@ -17,7 +17,7 @@ const defaultData = {
   "9xf0y6ziyjabvozdd253nd": {
     id: '9xf0y6ziyjabvozdd253nd',
     timestamp: 1519269415880,
-    title: 'Dogs',
+    title: 'Dog',
     body: 'Summer is never boring when you\'ve got a book',
     author: 'Mario',
     category: 'books',
