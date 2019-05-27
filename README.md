@@ -14,7 +14,7 @@ This is my own attempt at the Storytel's Frontend challenge. I was expected to d
 - **add test to critical places of the code (OPTIONAL)**
 
 It is a SPA(Single Page Application) message board app in React-Redux.
-It was created using [Create React App](https://facebook.github.io/create-react-app/) and depends on the backend API Server, which interact with the front-end portion of the project. This React/Redux app is a message board allowing anonymous users to post, edit, comment, and delete.
+It was created using [Create React App](https://facebook.github.io/create-react-app/) and depends on the backend API Server, which interact with the front-end portion of the project. This React/Redux app is a message board allowing users to post, edit, comment, and delete.
 
 
 ## Run it locally 🖥
